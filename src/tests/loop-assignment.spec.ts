@@ -18,7 +18,7 @@ test('Part 1 : Data Verification', async ({
   }
 });
 
-test.only('Part 2 : Data Extraction and Validation', async ({
+test('Part 2 : Data Extraction and Validation', async ({
   assert,
   loginPage,
   dashboardPage,
