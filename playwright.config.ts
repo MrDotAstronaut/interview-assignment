@@ -9,7 +9,6 @@ export default defineConfig({
   reporter: 'html',
   timeout: 300 * 1000,
   use: {
-    headless: false,
     screenshot: 'only-on-failure',
     trace: 'on-first-retry',
     testIdAttribute: 'data-testid'
