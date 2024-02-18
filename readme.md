@@ -5,7 +5,7 @@
 - The summed columns were formatted and converted back to string and compared.
 Printed both summed and retrieved values for reference.
 
-![alt text](<2024-02-18 (1).png>)
+![alt text](<./assignment-screenshots/2024-02-18 (1).png>)
 ### Part 2 : Data Extraction and Validation
 - I iterated through all the pages and stored the data in a map.
 - Later realized merged cells are present so added logic to concat the values when missing.
@@ -18,6 +18,6 @@ Printed both summed and retrieved values for reference.
 - Since I don't have more time to spend on the assignment, leaving the failed comparisons as is.
 - I catched the errors so it prints on the terminal for easier readability.
 
-![alt text](<2024-02-18 (2).png>)
+![alt text](<./assignment-screenshots/2024-02-18 (2).png>)
 ### Assignment CSVs and Recordings
-![alt text](<2024-02-18 (3).png>)
+![alt text](<./assignment-screenshots/2024-02-18 (3).png>)
