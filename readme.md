@@ -16,6 +16,7 @@ Printed both summed and retrieved values for reference.
 - After all the prior steps noticed, 'transaction_type' follows different order and cannot be matched using my approach.
 - Not sure if that is possible as this will require maintaining relative records while sorting.
 - Since I don't have more time to spend on the assignment, leaving the failed comparisons as is.
+- I catched the errors so it prints on the terminal for easier readability.
 
 ![alt text](<2024-02-18 (2).png>)
 ### Assignment CSVs and Recordings
